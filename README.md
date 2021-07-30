@@ -1,5 +1,5 @@
 # responder
-Python-based DNS, ICMP, and ARP responder
+A Python-based DNS, ICMP, and ARP responder
 
 The full version of Headers.py was written in [packet-analyzer](https://github.com/amir7d0/packet-analyzer).
 ### Features
@@ -23,7 +23,6 @@ The full version of Headers.py was written in [packet-analyzer](https://github.c
 
 
 ## Run
-
 
 ```sh
 sudo python3 app.py
