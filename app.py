@@ -486,3 +486,5 @@ if __name__=='__main__':
     except KeyboardInterrupt:
         print('\033[32m' + '\n Packet capturing was stopped. Packets were saved in capture.pcap \n')
         pcap.close()
+        
+        
